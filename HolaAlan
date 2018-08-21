@@ -1,0 +1,7 @@
+public class HolaAlan{
+
+ public static void main(Sring args[]){
+     System.out.printl("Hola alan");
+ }
+    
+}
